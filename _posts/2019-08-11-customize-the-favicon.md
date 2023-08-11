@@ -6,7 +6,7 @@ categories: [Blogging, Tutorial]
 tags: [favicon]
 ---
 
-The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+The [favicons](https://www.favicon-generator.org/about/) of [**resuchirp**](https://github.com/lilacnight/jekyll-theme-resuchirp/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
 
 ## Generate the favicon
 
@@ -25,7 +25,7 @@ And then copy the remaining image files (`.PNG`{: .filepath} and `.ICO`{: .filep
 
 The following table will help you understand the changes to the favicon files:
 
-| File(s)             | From Online Tool                  | From Chirpy |
+| File(s)             | From Online Tool                  | From resuchirp |
 |---------------------|:---------------------------------:|:-----------:|
 | `*.PNG`             | ✓                                 | ✗           |
 | `*.ICO`             | ✓                                 | ✗           |
